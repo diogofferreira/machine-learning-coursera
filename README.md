@@ -8,6 +8,6 @@ The (Octave/Matlab) code is together with week's pratical guides to check the as
 
 The lecture slides are also available.
 
-To more information see the [Course page](https://www.coursera.org/learn/machine-learning/home).
+For more information see the [Course page](https://www.coursera.org/learn/machine-learning/home).
 
 @ Diogo Ferreira
